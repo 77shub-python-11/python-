@@ -43,15 +43,15 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/assigment-2.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ass-1.py" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\pythonclass\python-" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ass">
-    <configuration name="ass" type="PythonConfigurationType" factoryName="Python">
+  <component name="RunManager" selected="Python.ass -1">
+    <configuration name="ass -1" type="PythonConfigurationType" factoryName="Python">
       <module name="python-" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -63,7 +63,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/assigment-2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ass-1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -117,7 +117,7 @@
     <list>
       <item itemvalue="Python.pyclass" />
       <item itemvalue="Python.q-2" />
-      <item itemvalue="Python.ass" />
+      <item itemvalue="Python.ass -1" />
     </list>
   </component>
   <component name="SvnConfiguration">
@@ -146,29 +146,29 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="254" y="85" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593285509482">
+    <state x="254" y="85" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593359899820">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="254" y="85" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860@0.0.1600.860" timestamp="1593285509482" />
-    <state x="580" y="185" key="FileChooserDialogImpl" timestamp="1593285502499">
+    <state x="254" y="85" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860@0.0.1600.860" timestamp="1593359899820" />
+    <state x="580" y="185" key="FileChooserDialogImpl" timestamp="1593359891355">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="580" y="185" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1593285502499" />
-    <state width="1579" height="222" key="GridCell.Tab.0.bottom" timestamp="1593317281478">
+    <state x="580" y="185" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1593359891355" />
+    <state width="1579" height="224" key="GridCell.Tab.0.bottom" timestamp="1593363557276">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1579" height="222" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1593317281478" />
-    <state width="1579" height="222" key="GridCell.Tab.0.center" timestamp="1593317281478">
+    <state width="1579" height="224" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1593363557276" />
+    <state width="1579" height="224" key="GridCell.Tab.0.center" timestamp="1593363557276">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1579" height="222" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1593317281478" />
-    <state width="1579" height="222" key="GridCell.Tab.0.left" timestamp="1593317281478">
+    <state width="1579" height="224" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1593363557276" />
+    <state width="1579" height="224" key="GridCell.Tab.0.left" timestamp="1593363557276">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1579" height="222" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1593317281478" />
-    <state width="1579" height="222" key="GridCell.Tab.0.right" timestamp="1593317281478">
+    <state width="1579" height="224" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1593363557276" />
+    <state width="1579" height="224" key="GridCell.Tab.0.right" timestamp="1593363557276">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1579" height="222" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1593317281478" />
+    <state width="1579" height="224" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1593363557276" />
   </component>
 </project>
