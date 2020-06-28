@@ -9,6 +9,8 @@ Consider use range(#begin, #end) method'''
 q =range(2000,3200)
 s=0
 for i in q :
-    if i%7==0:
-        print()
+    if i%7=0:
+        print(i)
+
+
 
