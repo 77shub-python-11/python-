@@ -11,8 +11,3 @@ it=['a','b','c','n','d','h']
 print(it)
 print(type(it))
 
-l=[]
-l.append("a")
-l.append("b")
-
-print(l)
