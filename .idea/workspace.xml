@@ -199,13 +199,13 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.assigment-2" />
+      <item itemvalue="Python.l-1" />
       <item itemvalue="Python.pyclass" />
       <item itemvalue="Python.q-2" />
-      <item itemvalue="Python.test-2" />
-      <item itemvalue="Python.l-1" />
       <item itemvalue="Python.str" />
+      <item itemvalue="Python.test-2" />
       <item itemvalue="Python.test" />
-      <item itemvalue="Python.assigment-2" />
     </list>
   </component>
   <component name="SvnConfiguration">
