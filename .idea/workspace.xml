@@ -43,14 +43,14 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/list functions.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/str.py" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\pythonclass\python-" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.l-1">
+  <component name="RunManager" selected="Python.str">
     <configuration name="assigment-2" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="python-" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -135,6 +135,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="str" type="PythonConfigurationType" factoryName="Python">
+      <module name="python-" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\HP\AppData\Local\Programs\Python\Python38-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/str.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="test-2" type="PythonConfigurationType" factoryName="Python">
       <module name="python-" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -182,6 +203,7 @@
       <item itemvalue="Python.q-2" />
       <item itemvalue="Python.test-2" />
       <item itemvalue="Python.l-1" />
+      <item itemvalue="Python.str" />
       <item itemvalue="Python.test" />
       <item itemvalue="Python.assigment-2" />
     </list>
@@ -212,29 +234,29 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="254" y="85" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593452549799">
+    <state x="254" y="85" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593484914155">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="254" y="85" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860@0.0.1600.860" timestamp="1593452549799" />
-    <state x="580" y="185" key="FileChooserDialogImpl" timestamp="1593452542337">
+    <state x="254" y="85" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860@0.0.1600.860" timestamp="1593484914155" />
+    <state x="580" y="185" key="FileChooserDialogImpl" timestamp="1593484910369">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="580" y="185" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1593452542337" />
-    <state width="1579" height="224" key="GridCell.Tab.0.bottom" timestamp="1593452993631">
+    <state x="580" y="185" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1593484910369" />
+    <state width="1579" height="224" key="GridCell.Tab.0.bottom" timestamp="1593491362110">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1579" height="224" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1593452993631" />
-    <state width="1579" height="224" key="GridCell.Tab.0.center" timestamp="1593452993631">
+    <state width="1579" height="224" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1593491362110" />
+    <state width="1579" height="224" key="GridCell.Tab.0.center" timestamp="1593491362110">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1579" height="224" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1593452993631" />
-    <state width="1579" height="224" key="GridCell.Tab.0.left" timestamp="1593452993631">
+    <state width="1579" height="224" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1593491362110" />
+    <state width="1579" height="224" key="GridCell.Tab.0.left" timestamp="1593491362110">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1579" height="224" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1593452993631" />
-    <state width="1579" height="224" key="GridCell.Tab.0.right" timestamp="1593452993631">
+    <state width="1579" height="224" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1593491362110" />
+    <state width="1579" height="224" key="GridCell.Tab.0.right" timestamp="1593491362110">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1579" height="224" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1593452993631" />
+    <state width="1579" height="224" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1593491362110" />
   </component>
 </project>
