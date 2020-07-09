@@ -45,3 +45,10 @@ s=set()#created empty set
 s.add(1)#add value to empty set
 s.add(2)
 print(s)
+
+
+
+a={"key":"shubham"}
+print(a["key"])
+b={"k":0,"k1":2,"k2":3}
+print(b["k1"])
