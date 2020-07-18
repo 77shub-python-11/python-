@@ -43,14 +43,15 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/calculator first project.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/numpy.py" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\pythonclass\python-" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.calculator">
+  <component name="RunManager" selected="Python.numpy">
     <configuration name="assigment-2" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="python-" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -127,6 +128,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/list functions.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="numpy" type="PythonConfigurationType" factoryName="Python">
+      <module name="python-" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\HP\AppData\Local\Programs\Python\Python38-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/numpy.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -242,9 +264,10 @@
     </configuration>
     <list>
       <item itemvalue="Python.assigment-2" />
-      <item itemvalue="Python.coll" />
       <item itemvalue="Python.calculator" />
+      <item itemvalue="Python.coll" />
       <item itemvalue="Python.l-1" />
+      <item itemvalue="Python.numpy" />
       <item itemvalue="Python.pyclass" />
       <item itemvalue="Python.q-2" />
       <item itemvalue="Python.str" />
@@ -278,14 +301,14 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="254" y="85" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594109633478">
+    <state x="254" y="85" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594527334910">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="254" y="85" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860@0.0.1600.860" timestamp="1594109633478" />
-    <state x="580" y="185" key="FileChooserDialogImpl" timestamp="1594109619170">
+    <state x="254" y="85" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860@0.0.1600.860" timestamp="1594527334910" />
+    <state x="580" y="185" key="FileChooserDialogImpl" timestamp="1594527328389">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="580" y="185" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1594109619170" />
+    <state x="580" y="185" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1594527328389" />
     <state width="1579" height="224" key="GridCell.Tab.0.bottom" timestamp="1594111157855">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -302,5 +325,9 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state width="1579" height="224" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1594111157855" />
+    <state x="301" y="75" key="SettingsEditor" timestamp="1594527603122">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="301" y="75" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1594527603122" />
   </component>
 </project>

@@ -6,11 +6,6 @@ The numbers obtained should be printed in a comma-separated sequence on a single
 Hints:
 Consider use range(#begin, #end) method'''
 
-q =range(2000,3200)
-s=0
-for i in q :
-    if i%7=0:
-        print(i)
 
 
 
